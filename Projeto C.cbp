@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Projeto C" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Projeto C" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Projeto C" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Biblioteca.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Biblioteca.h" />
+		<Unit filename="Concelhos.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Concelhos.h" />
+		<Unit filename="Distritos.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Distritos.h" />
+		<Unit filename="Freguesias.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Freguesias.h" />
+		<Unit filename="Hashing.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Hashing.h" />
+		<Unit filename="Lista.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Lista.h" />
+		<Unit filename="Livros.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Livros.h" />
+		<Unit filename="Requesicoes.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Requesicoes.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="Requesitantes.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Requesitantes.h" />
+		<Unit filename="Requisitantes.txt" />
+		<Unit filename="concelhos.txt" />
+		<Unit filename="distritos.txt" />
+		<Unit filename="freguesias.txt" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

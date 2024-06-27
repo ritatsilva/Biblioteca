@@ -1,0 +1,120 @@
+# depslib dependency file v1.0
+1718355606 source:c:\users\ritatsilva\desktop\biblioteca c\projeto c\biblioteca.c
+	"Biblioteca.h"
+
+1718355662 c:\users\ritatsilva\desktop\biblioteca c\projeto c\biblioteca.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Livros.h"
+	"Lista.h"
+	"Hashing.h"
+	"Requesicoes.h"
+
+1718355674 c:\users\ritatsilva\desktop\biblioteca c\projeto c\livros.h
+	<time.h>
+	<stdio.h>
+	"Requesitantes.h"
+
+1718355691 c:\users\ritatsilva\desktop\biblioteca c\projeto c\requesitantes.h
+	<time.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"Freguesias.h"
+	"Distritos.h"
+	"Concelhos.h"
+
+1718270113 c:\users\ritatsilva\desktop\biblioteca c\projeto c\freguesias.h
+
+1718270113 c:\users\ritatsilva\desktop\biblioteca c\projeto c\distritos.h
+
+1718270113 c:\users\ritatsilva\desktop\biblioteca c\projeto c\concelhos.h
+
+1718355705 c:\users\ritatsilva\desktop\biblioteca c\projeto c\lista.h
+	<stdio.h>
+	<stdlib.h>
+	"Livros.h"
+
+1718355714 c:\users\ritatsilva\desktop\biblioteca c\projeto c\hashing.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Lista.h"
+
+1718355750 c:\users\ritatsilva\desktop\biblioteca c\projeto c\requesicoes.h
+	<time.h>
+	<stdio.h>
+	"Freguesias.h"
+	"Distritos.h"
+	"Concelhos.h"
+	"Requesitantes.h"
+	"Livros.h"
+
+1718358035 source:c:\users\ritatsilva\desktop\biblioteca c\projeto c\concelhos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Concelhos.h"
+
+1718358035 source:c:\users\ritatsilva\desktop\biblioteca c\projeto c\distritos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Distritos.h"
+
+1718358035 source:c:\users\ritatsilva\desktop\biblioteca c\projeto c\freguesias.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Freguesias.h"
+
+1718355792 source:c:\users\ritatsilva\desktop\biblioteca c\projeto c\hashing.c
+	"Hashing.h"
+	"Biblioteca.h"
+
+1718355801 source:c:\users\ritatsilva\desktop\biblioteca c\projeto c\lista.c
+	"Lista.h"
+
+1718355816 source:c:\users\ritatsilva\desktop\biblioteca c\projeto c\livros.c
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Livros.h"
+	"Requesitantes.h"
+
+1718358035 source:c:\users\ritatsilva\desktop\biblioteca c\projeto c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Distritos.h"
+	"Concelhos.h"
+	"Freguesias.h"
+	"Requesitantes.h"
+	"Livros.h"
+	"Requesicoes.h"
+	"Biblioteca.h"
+
+1718358035 source:c:\users\ritatsilva\desktop\biblioteca c\projeto c\requesicoes.c
+	<time.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"Freguesias.h"
+	"Distritos.h"
+	"Concelhos.h"
+	"Requesitantes.h"
+	"Livros.h"
+	"Requesicoes.h"
+
+1718358035 source:c:\users\ritatsilva\desktop\biblioteca c\projeto c\requesitantes.c
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Requesitantes.h"
+	"Freguesias.h"
+	"Distritos.h"
+	"Concelhos.h"
+
